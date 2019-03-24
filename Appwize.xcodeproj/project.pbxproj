@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 46;
+	objectVersion = 48;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -193,25 +193,22 @@
 				TargetAttributes = {
 					88EAFB31224844BA00138B33 = {
 						CreatedOnToolsVersion = 8.1;
-						DevelopmentTeam = UWA6PL4UK4;
 						ProvisioningStyle = Automatic;
 					};
 					88EAFB45224844BB00138B33 = {
 						CreatedOnToolsVersion = 8.1;
-						DevelopmentTeam = UWA6PL4UK4;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 88EAFB31224844BA00138B33;
 					};
 					88EAFB50224844BB00138B33 = {
 						CreatedOnToolsVersion = 8.1;
-						DevelopmentTeam = UWA6PL4UK4;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 88EAFB31224844BA00138B33;
 					};
 				};
 			};
 			buildConfigurationList = 88EAFB2D224844BA00138B33 /* Build configuration list for PBXProject "Appwize" */;
-			compatibilityVersion = "Xcode 3.2";
+			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
