@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		889F784B22499F6A0073AB37 /* city_night_view_background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 889F784A22499F6A0073AB37 /* city_night_view_background.jpg */; };
+		889F784D2249A0DA0073AB37 /* rounded rectangle.png in Resources */ = {isa = PBXBuildFile; fileRef = 889F784C2249A0D90073AB37 /* rounded rectangle.png */; };
 		88EAFB36224844BA00138B33 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88EAFB35224844BA00138B33 /* AppDelegate.swift */; };
 		88EAFB38224844BA00138B33 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88EAFB37224844BA00138B33 /* ViewController.swift */; };
 		88EAFB3B224844BB00138B33 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 88EAFB39224844BB00138B33 /* Main.storyboard */; };
@@ -34,6 +36,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		889F784A22499F6A0073AB37 /* city_night_view_background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = city_night_view_background.jpg; path = ../../city_night_view_background.jpg; sourceTree = "<group>"; };
+		889F784C2249A0D90073AB37 /* rounded rectangle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "rounded rectangle.png"; path = "../../rounded rectangle.png"; sourceTree = "<group>"; };
 		88EAFB32224844BA00138B33 /* Appwize.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Appwize.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		88EAFB35224844BA00138B33 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		88EAFB37224844BA00138B33 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -100,6 +104,8 @@
 				88EAFB35224844BA00138B33 /* AppDelegate.swift */,
 				88EAFB37224844BA00138B33 /* ViewController.swift */,
 				88EAFB39224844BB00138B33 /* Main.storyboard */,
+				889F784A22499F6A0073AB37 /* city_night_view_background.jpg */,
+				889F784C2249A0D90073AB37 /* rounded rectangle.png */,
 				88EAFB3C224844BB00138B33 /* Assets.xcassets */,
 				88EAFB3E224844BB00138B33 /* LaunchScreen.storyboard */,
 				88EAFB41224844BB00138B33 /* Info.plist */,
@@ -232,6 +238,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				889F784D2249A0DA0073AB37 /* rounded rectangle.png in Resources */,
+				889F784B22499F6A0073AB37 /* city_night_view_background.jpg in Resources */,
 				88EAFB40224844BB00138B33 /* LaunchScreen.storyboard in Resources */,
 				88EAFB3D224844BB00138B33 /* Assets.xcassets in Resources */,
 				88EAFB3B224844BB00138B33 /* Main.storyboard in Resources */,
@@ -511,6 +519,7 @@
 				88EAFB5C224844BB00138B33 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		88EAFB5D224844BB00138B33 /* Build configuration list for PBXNativeTarget "AppwizeTests" */ = {
 			isa = XCConfigurationList;
@@ -519,6 +528,7 @@
 				88EAFB5F224844BB00138B33 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		88EAFB60224844BB00138B33 /* Build configuration list for PBXNativeTarget "AppwizeUITests" */ = {
 			isa = XCConfigurationList;
@@ -527,6 +537,7 @@
 				88EAFB62224844BB00138B33 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
